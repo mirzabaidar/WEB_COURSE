@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "chrome",
+            "name": "http://192.168.100.8:3000/mirza.html",
+            "request": "launch",
+            "url": "http://192.168.100.8:3000/mirza.html"
+        }
+    ]
+}
